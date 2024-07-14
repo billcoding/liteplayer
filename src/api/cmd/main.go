@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 
+	_ "github.com/billcoding/diskplayer/api/cmd/middleware"
 	_ "github.com/billcoding/diskplayer/api/cmd/router"
 	_ "github.com/billcoding/diskplayer/api/cmd/tasks"
 
