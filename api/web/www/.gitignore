@@ -1,0 +1,9 @@
+index.html
+*.ico
+*.js
+*.svg
+*.css
+icons
+scripts
+static
+CNAME

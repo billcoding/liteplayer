@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/gin-gonic/gin v1.10.0
-	github.com/rwscode/svc v1.1.5
+	github.com/rwscode/svc v1.1.11
 )
 
 require (
