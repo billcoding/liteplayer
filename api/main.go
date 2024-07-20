@@ -5,10 +5,10 @@ import (
 	"io/fs"
 	"path/filepath"
 
-	_ "github.com/billcoding/diskplayer/api/router"
+	_ "github.com/billcoding/liteplayer/api/router"
 
-	"github.com/billcoding/diskplayer/api/app"
-	"github.com/billcoding/diskplayer/api/envs"
+	"github.com/billcoding/liteplayer/api/app"
+	"github.com/billcoding/liteplayer/api/envs"
 )
 
 func main() { fmt.Println(app.GetApp().Run(envs.ServerAddr)) }

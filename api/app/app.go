@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/billcoding/diskplayer/api/web"
+	"github.com/billcoding/liteplayer/api/web"
 	"github.com/gin-gonic/gin"
 	"github.com/rwscode/svc"
 )

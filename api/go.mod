@@ -1,4 +1,4 @@
-module github.com/billcoding/diskplayer/api
+module github.com/billcoding/liteplayer/api
 
 go 1.18
 

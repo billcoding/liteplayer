@@ -1,5 +1,5 @@
-import 'package:app/widgets/entertainment.dart';
 import 'package:flutter/material.dart';
+import 'widgets/entertainment.dart';
 import 'widgets/movie.dart';
 import 'widgets/tv.dart';
 
